@@ -1,0 +1,21 @@
+.t{
+    text-align: center;
+    background-color: rgba(46, 65, 16, 0.856);
+    color: cyan;
+}
+.t2{
+    background-color: lightblue;
+    color: black;text-align: center;
+    text-transform: uppercase;
+}
+.bg{
+    background-color: darkmagenta;
+}
+.cesf{
+    background-color: red;
+    color: royalblue;
+}
+.img{
+    border-radius: 54px;
+    border-color: black;
+}
